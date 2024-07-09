@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "692778598089",
+    "firebase_url": "https://greenbottle-inventory-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "greenbottle-inventory",
+    "storage_bucket": "greenbottle-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692778598089:android:770393a190eb650d47d718",
+        "android_client_info": {
+          "package_name": "com.greenbottle.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GABvras7mJHgY_Z6-00n0hbQGbRhey8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
